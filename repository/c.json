@@ -1125,7 +1125,7 @@
 				{
 					"sublime_text": ">=4096",
 					"platforms": ["windows"],
-					"tags": true
+					"tags": "2.0."
 				}
 			]
 		},
